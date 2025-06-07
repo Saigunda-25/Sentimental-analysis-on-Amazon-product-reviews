@@ -17,7 +17,7 @@ Use NLP techniques to classify product reviews as positive or negative using log
 - Trained Logistic Regression with 86% accuracy
 
 ## 📊 Evaluation
-- Model accuracy: ~86%
+- Model accuracy: ~89%
 - Precision/Recall scores presented
 - Confusion matrix visualized
-- 
+  
